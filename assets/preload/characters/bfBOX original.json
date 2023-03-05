@@ -1,0 +1,232 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				169,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				160,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				144,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				199,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				14,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				19
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bf miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				19
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bf miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bf miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				19
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bf miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-8
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "BF dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-58
+			],
+			"anim": "duck",
+			"fps": 24,
+			"name": "Duck",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-14
+			],
+			"anim": "blockLEFT",
+			"fps": 24,
+			"name": "bf block left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-19
+			],
+			"anim": "blockDOWN",
+			"fps": 24,
+			"name": "bf block down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-19
+			],
+			"anim": "blockRIGHT",
+			"fps": 24,
+			"name": "bf block right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-23
+			],
+			"anim": "blockUP",
+			"fps": 24,
+			"name": "bf block up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				228,
+				47
+			],
+			"anim": "stand",
+			"fps": 24,
+			"name": "bf stando",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				3
+			],
+			"anim": "prepare",
+			"fps": 24,
+			"name": "images that precede unfortunate events",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				160,
+				158
+			],
+			"anim": "ora",
+			"fps": 24,
+			"name": "ora",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BOYFRIENDMII",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

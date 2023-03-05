@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				-289
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "punchDOWN",
+			"indices": [],
+			"name": "matt down note"
+		},
+		{
+			"offsets": [
+				20,
+				-266
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "punchLEFT",
+			"indices": [],
+			"name": "matt left note"
+		},
+		{
+			"offsets": [
+				20,
+				-255
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "punchRIGHT",
+			"indices": [],
+			"name": "matt right note"
+		},
+		{
+			"offsets": [
+				28,
+				-263
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "punchUP",
+			"indices": [],
+			"name": "matt up note"
+		},
+		{
+			"offsets": [
+				0,
+				-260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "blockDOWN",
+			"indices": [],
+			"name": "matt block down"
+		},
+		{
+			"offsets": [
+				0,
+				-260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "blockLEFT",
+			"indices": [],
+			"name": "matt block left"
+		},
+		{
+			"offsets": [
+				0,
+				-260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "blockRIGHT",
+			"indices": [],
+			"name": "matt block right"
+		},
+		{
+			"offsets": [
+				0,
+				-260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "blockUP",
+			"indices": [],
+			"name": "matt block up"
+		},
+		{
+			"offsets": [
+				131,
+				-238
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "parry",
+			"indices": [],
+			"name": "matt parry"
+		},
+		{
+			"offsets": [
+				2,
+				-270
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "prepare",
+			"indices": [],
+			"name": "proj throw"
+		},
+		{
+			"offsets": [
+				3,
+				-255
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": true,
+			"name": "matt idle"
+		},
+		{
+			"offsets": [
+				29,
+				-244
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "stand",
+			"loop": false,
+			"name": "matt stando pose"
+		},
+		{
+			"offsets": [
+				125,
+				-141
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "ora",
+			"loop": true,
+			"name": "ora"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mattangry",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		200,
+		80,
+		0
+	],
+	"camera_position": [
+		-20,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

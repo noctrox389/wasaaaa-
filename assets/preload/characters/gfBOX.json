@@ -1,0 +1,62 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				360,
+				-10
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 16,
+			"name": "GF Dancing Beat",
+			"indices": [
+				14,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"offsets": [
+				360,
+				-10
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 16,
+			"name": "GF Dancing Beat",
+			"indices": [
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GFMIIBOXING_ass_sets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="vsScreen.png">
+<SubTexture name="loading screen gui0000" x="0" y="0" width="1324" height="910" frameX="0" frameY="-2" frameWidth="1324" frameHeight="917" />
+</TextureAtlas>
